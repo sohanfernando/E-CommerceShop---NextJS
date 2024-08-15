@@ -1,1 +1,1 @@
-# E-CommerceShop---NextJS
+Modern E-Commerce Store for custom phone cases

@@ -170,4 +170,4 @@ const DesignPreview = ({ configuration }: { configuration: Configuration }) => {
   )
 }
 
-export default DesignPreview
+export default DesignPreview;
